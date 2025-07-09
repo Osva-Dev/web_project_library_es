@@ -147,6 +147,7 @@
 }
 
 .card__text {
+  overflow: overlay;
   margin: 20px 0 0;
   font-size: 16px;
   line-height: 24px;
