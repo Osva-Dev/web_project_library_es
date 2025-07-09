@@ -141,7 +141,7 @@
 }
 
 .card__title {
-  overflow: overlay;
+  overflow: auto;
   font-size: 20px;
   line-height: 30px;
   font-weight: 700;
